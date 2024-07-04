@@ -1,0 +1,4 @@
+# requirements.txt
+Flask
+flask-cors
+joblib
